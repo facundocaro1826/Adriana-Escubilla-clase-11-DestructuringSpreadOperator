@@ -1,0 +1,34 @@
+[
+    {
+        "marca": "Bandai",
+        "nombre": "Gamora",
+        "precio": 500,
+        "Stock": 5
+    },
+    {
+        "marca": "Bandai",
+        "nombre": "Hulk",
+        "precio": 600,
+        "Stock": 6
+    },
+    {
+        "marca": "Bandai",
+        "nombre": "Thor",
+        "precio": 600,
+        "Stock": 6
+    },
+    {
+        "marca": "Bandai",
+        "nombre": "Vegeta",
+        "precio": 700,
+        "Stock": 7
+    },
+    {
+        "marca": "Bandai",
+        "nombre": "Sailor Pluto",
+        "precio": 800,
+        "Stock": 8
+    }
+    
+
+]
